@@ -1,5 +1,5 @@
 function show() {
     console.log("showed");
-    document.write("Hi!")
+    document.write("Hi!");
 
 }
